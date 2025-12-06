@@ -72,7 +72,7 @@
     "vue": "^3.5.19",
     "vue-i18n": "11.1.11",
     "vue-router": "^4.5.1",
-    //新增alist-encrypt需要的依赖
+    /*新增alist-encrypt需要的依赖*/
     "dotenv": "^16.0.3",
     "fast-xml-parser": "^4.1.3",
     "koa": "^2.13.1",
